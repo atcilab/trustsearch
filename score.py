@@ -45,7 +45,7 @@ solr_url = os.getenv('SOLR_URL')
 solr_username = os.getenv('SOLR_UNAME')
 solr_password = os.getenv('SOLR_PWD')
 auth_key = os.getenv('auth_key')
-passsword = "12345"
+
 # MongoDB Configuration
 mongodb_client = os.getenv('MONGO_URL')
 mongodb_database = os.getenv('MONGO_DB')
